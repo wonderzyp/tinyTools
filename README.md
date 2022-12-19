@@ -1,2 +1,15 @@
-# shell_script
-Some handy shell scripts
+## 写在前面
+本案例所有脚本是作者在读研做具体项目时，为避免重复劳动而编写
+
+仅起参考作用，难以直接使用 :)
+
+## connectfile.sh
+将多个文件拼接到一起
+
+## runmpi.sh
+清理旧文件，并运行mpi程序
+
+## job.sh
+超算任务提交脚本
+
+
