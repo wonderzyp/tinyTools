@@ -4,14 +4,9 @@
 仅起学习参考，一般不能直接使用 :)
 
 ## shell脚本
-### connectfile.sh
-将多个文件拼接到一起
-
-### runmpi.sh
-清理旧文件，并运行mpi程序
-
-### job.sh
-超算任务提交脚本
+- **connectfile.sh**: 将多个文件拼接到一起
+- **runmpi.sh**: 清理旧文件，并运行mpi程序
+- **job.sh**: 超算任务提交脚本
 
 ## other
 多个程序小片段，解决不同问题
